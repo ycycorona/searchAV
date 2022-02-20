@@ -274,9 +274,9 @@
                 
 
                 // 标题翻译
-                Trans.id = avID;
-                Trans.transText=avInfo.title;
-                googleTrans();
+                // Trans.id = avID;
+                // Trans.transText=avInfo.title;
+                // googleTrans();
 
                 // 存储
                 localInfo[avID] = avInfo;
